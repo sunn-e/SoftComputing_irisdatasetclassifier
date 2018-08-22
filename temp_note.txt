@@ -1,1 +1,10 @@
 //hello world
+//go to desired directory you want to clone your project into
+// #git clone https://url.url
+// #git status
+# git add example.fileextension
+# git commit - m " your comment"
+# git push
+optional- git config --global user.email " youremailid@email.com"
+optional- git config --global user.name "username"
+
